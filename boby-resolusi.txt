@@ -5,5 +5,7 @@ BOBY RESOLUSI
 - jago data architect
 - kolaborasi dengan lebih banyak expert
 - Angular
-- React
+- Fundamental strukture data
+- Vuew
 - Laravel
+- React
