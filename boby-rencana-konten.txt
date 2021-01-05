@@ -1,0 +1,8 @@
+RENCANA KONTEN BOBY
+
+- Javascript
+  * ES6
+  * Framework Javascript
+- PHP framework
+- interview
+- vlog
