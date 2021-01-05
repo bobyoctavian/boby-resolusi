@@ -4,4 +4,6 @@ BOBY RESOLUSI
 - membuat vlog
 - jago data architect
 - kolaborasi dengan lebih banyak expert
-- Fundamental strukture data
+- Angular
+- React
+- Laravel
