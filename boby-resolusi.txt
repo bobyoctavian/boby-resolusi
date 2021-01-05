@@ -7,3 +7,4 @@ BOBY RESOLUSI
 - Fundamental strukture data
 - Vuew
 - Laravel
+- React
